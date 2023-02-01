@@ -2,6 +2,12 @@
 
 Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course
 
+Course Name: Introduction to Data Science
+Course Description:
+Grade Level(s): 11th and 12th grade students, having already taken Algebra 1 and Geometry
+
+This outline will describe how this Data Science course will incorporate the societal impact on computing, ethical considerations in computing, and ways that the instruction in this course will address equity and inclusion.
+
 ## Plan
 
 ### Learning Objectives
