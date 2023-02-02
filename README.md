@@ -1,8 +1,10 @@
 # Impacts on Society
 
-Course Name: Introduction to Data Science
-Course Description:
-Grade Level(s): 11th and 12th grade students, having already taken Algebra 1 and Geometry
+**Course Name:** Introduction to Data Science  
+
+**Course Description:** This course has been adapted from the course “Explorations in Data Science” which was created through a collaborative effort between Stanford University, YouCubed, and Google. It will introduce students to the main ideas in data science through free tools such as Google Sheets, Python, Data Commons and Tableau. Students will learn to be data explorers in project-based units, through which they will develop their understanding of data analysis, sampling, correlation/causation, bias and uncertainty, probability, modeling with data, making and evaluating data-based arguments, the power of data in society, and more. At the end of the course students will have a portfolio of their data science work to showcase their newly developed abilities.  
+
+**Grade Level(s):** 11th and 12th grade students, having already taken Algebra 1 and Geometry  
 
 This outline will describe how this Data Science course will incorporate the societal impact on computing, ethical considerations in computing, and ways that the instruction in this course will address equity and inclusion.
 
@@ -10,12 +12,12 @@ This outline will describe how this Data Science course will incorporate the soc
 
 ### Learning Objectives
 
-Students will defend their choice of colorblind friendly color palette.
-Students will examine the privacy policies of different media apps and websites and discuss their impacts.
-Students will critique articles and data displays to understand how data can be misused to ephasize one side of an arguement.
-Students will collect and analyze data from digital print media to determine if certain skin tones are misrepresented in magazines.
-Students will reflect on their own personal bias to determine how it affects their work as a data scientist.
-Students will compare their personal experiences learning to program to the experiences of those in the articles we have read.
+* Students will defend their choice of colorblind friendly color palette.  
+* Students will examine the privacy policies of different media apps and websites and discuss their impacts.  
+* Students will critique articles and data displays to understand how data can be misused to ephasize one side of an arguement.  
+* Students will collect and analyze data from digital print media to determine if certain skin tones are misrepresented in magazines.  
+* Students will reflect on their own personal bias to determine how it affects their work as a data scientist.  
+* Students will compare their personal experiences learning to program to the experiences of those in the articles we have read.  
 
 ### Learning Activities
 
